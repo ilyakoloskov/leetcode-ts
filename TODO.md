@@ -12,3 +12,4 @@
 - [ ] `01-30-days-of-javascript/closures/4.counterII`
 - [ ] `01-30-days-of-javascript/basic-array-transformations/1.applyTransformOverEachElementInArray`
 - [ ] `01-30-days-of-javascript/basic-array-transformations/2.filterElementsFromArray`
+- [ ] `01-30-days-of-javascript/basic-array-transformations/3.arrayReduceTransformation`

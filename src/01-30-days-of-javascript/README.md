@@ -2,7 +2,7 @@
 
 [Страница курса](https://leetcode.com/studyplan/30-days-of-javascript/) · задач: 35
 
-Прогресс: 🟨 6/35
+Прогресс: 🟨 7/35
 
 ## Решённые
 
@@ -14,3 +14,4 @@
 | 4 | Counter II                                 | Closures                    | Easy      |
 | 5 | Apply Transform Over Each Element in Array | Basic Array Transformations | Easy      |
 | 6 | Filter Elements from Array                 | Basic Array Transformations | Easy      |
+| 7 | Array Reduce Transformation                | Basic Array Transformations | Easy      |

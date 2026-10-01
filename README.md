@@ -29,7 +29,7 @@ yarn typecheck     # проверка типов
 
 | # | Курс | Задач | Сложность | Статус |
 | --- | --- | --- | --- | --- |
-| 1 | [30 Days of JavaScript](https://leetcode.com/studyplan/30-days-of-javascript/) | 35 | лёгкие–средние | 🟨 [6/35](src/01-30-days-of-javascript/) |
+| 1 | [30 Days of JavaScript](https://leetcode.com/studyplan/30-days-of-javascript/) | 35 | лёгкие–средние | 🟨 [7/35](src/01-30-days-of-javascript/) |
 | 2 | [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/) | 75 | лёгкие–средние | ⬜ [папка](src/02-leetcode-75/) |
 | 3 | [Blind 75](https://neetcode.io/practice) | 75 | лёгкие–сложные | ⬜ [папка](src/03-blind-75/) |
 | 4 | [Grind 75](https://www.techinterviewhandbook.org/grind75/) | 75 | лёгкие–сложные | ⬜ [папка](src/04-grind-75/) |
