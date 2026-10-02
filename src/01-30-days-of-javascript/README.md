@@ -2,7 +2,7 @@
 
 [Страница курса](https://leetcode.com/studyplan/30-days-of-javascript/) · задач: 35
 
-Прогресс: 🟨 8/35
+Прогресс: 🟨 9/35
 
 ## Решённые
 
@@ -16,3 +16,4 @@
 | 6 | Filter Elements from Array                 | Basic Array Transformations | Easy      |
 | 7 | Array Reduce Transformation                | Basic Array Transformations | Easy      |
 | 8 | Function Composition                       | Function Transformations    | Easy      |
+| 9 | Return Length of Arguments Passed          | Function Transformations    | Easy      |

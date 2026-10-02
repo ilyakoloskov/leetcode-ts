@@ -14,3 +14,4 @@
 - [ ] `01-30-days-of-javascript/basic-array-transformations/2.filterElementsFromArray`
 - [ ] `01-30-days-of-javascript/basic-array-transformations/3.arrayReduceTransformation`
 - [ ] `01-30-days-of-javascript/function-transformations/1.functionComposition`
+- [ ] `01-30-days-of-javascript/function-transformations/2.returnLengthOfArgumentsPassed`
