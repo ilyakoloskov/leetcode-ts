@@ -16,3 +16,4 @@
 - [ ] `01-30-days-of-javascript/function-transformations/1.functionComposition`
 - [ ] `01-30-days-of-javascript/function-transformations/2.returnLengthOfArgumentsPassed`
 - [ ] `01-30-days-of-javascript/function-transformations/3.allowOneFunctionCall`
+- [ ] `01-30-days-of-javascript/function-transformations/4.memoize`
