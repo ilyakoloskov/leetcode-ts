@@ -2,7 +2,7 @@
 
 [Страница курса](https://leetcode.com/studyplan/30-days-of-javascript/) · задач: 35
 
-Прогресс: 🟨 11/35
+Прогресс: 🟨 12/35
 
 ## Решённые
 
@@ -19,3 +19,4 @@
 | 9  | Return Length of Arguments Passed          | Function Transformations    | Easy      |
 | 10 | Allow One Function Call                    | Function Transformations    | Easy      |
 | 11 | Memoize                                    | Function Transformations    | Medium    |
+| 12 | Add Two Promises                           | Promises and Time           | Easy      |
